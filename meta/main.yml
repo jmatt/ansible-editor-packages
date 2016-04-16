@@ -22,6 +22,7 @@ galaxy_info:
   #  - squeeze
   #  - wheezy
   galaxy_tags:
+    - system
     - editor
     - editors
     - vim
